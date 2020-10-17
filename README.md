@@ -13,7 +13,7 @@
 
 ## Demo
 > [Link](https://dazzling-kirch-11ce1a.netlify.app/).
-
+> Enter any search parameter into the search field ```sh " Web Development "``` then press Enter.
 
 ### Install
 
@@ -22,12 +22,19 @@
 ```sh
 https://github.com/CornerstoneII/Netflix-Education-Webpage.git
 ```
+2) Run ```npm i ``` to install the modules
 
 ## Available Scripts
 
+```sh
+cd Netflix-Education-Webpage
+```
+
 In the project directory, you can run:
-
-
+```
+sh
+npm start
+```
 ### `npm start`
 
 Runs the app in the development mode.<br />
